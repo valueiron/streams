@@ -39,7 +39,7 @@ https://apollo.production-public.tubi.io/live/ac-ice-road-truckers.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609bfa51fbecc1000733152e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53c01b5-86bc-43d2-afd7-b739724c937c
 #EXTINF:-1 tvg-id="MLB.us",MLB
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
-#EXTINF:-1 tvg-id="MTV2East.us",MTV2 (720p)
+#EXTINF:-1 tvg-id="MTV2East.us",MTV
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
@@ -91,4 +91,10 @@ https://streamer1.nexgen.bz/FX/index.m3u8
 https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us",Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
+#EXTINF:-1,Hardknocks
+https://muxip-hardknocks-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Vice TV
+https://vicefastone-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,24hours Movies
+https://muxip-24hoursmovies-klowdtv.amagi.tv/playlist.m3u8
 
